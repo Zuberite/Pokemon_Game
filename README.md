@@ -6,8 +6,9 @@ Instructions
 2. In-order to get it to work you must install eclipse's Java IDE and install the JavaFX add on
 3. Then, you must run the file through eclipse after completing the previous steps
 
-Video
-If you are unable to get the game to run on your pc. There is a video below demonstrating what happens.
+Video:
+
+If you are unable to get the game to run on your pc. There is a video below demonstrating what happens. (To be added September 22, 2020)
 
 I'd love any feedback on my game or what I could have done better for next time!
 
