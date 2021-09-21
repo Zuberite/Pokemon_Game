@@ -8,7 +8,7 @@ Instructions
 
 Video:
 
-If you are unable to get the game to run on your pc. There is a video below demonstrating what happens. https://youtu.be/wBBFn2Quq4A
+If you are unable to get the game to run on your pc. There is a video below demonstrating what happens. https://youtu.be/1WoACRahyJc
 
 I'd love any feedback on my game or what I could have done better for next time!
 
